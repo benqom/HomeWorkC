@@ -1,0 +1,15 @@
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\task13.csproj.AssemblyReference.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\task13.AssemblyInfoInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\task13.AssemblyInfo.cs
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\task13.csproj.CoreCompileInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\bin\Debug\net7.0\task13.exe
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\bin\Debug\net7.0\task13.deps.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\bin\Debug\net7.0\task13.runtimeconfig.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\bin\Debug\net7.0\task13.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\bin\Debug\net7.0\task13.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\task13.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\refint\task13.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\task13.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\task13.genruntimeconfig.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task13\obj\Debug\net7.0\ref\task13.dll
