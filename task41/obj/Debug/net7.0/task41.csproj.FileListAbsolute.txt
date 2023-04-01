@@ -1,0 +1,15 @@
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\task41.csproj.AssemblyReference.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\task41.AssemblyInfoInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\task41.AssemblyInfo.cs
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\task41.csproj.CoreCompileInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\bin\Debug\net7.0\task41.exe
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\bin\Debug\net7.0\task41.deps.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\bin\Debug\net7.0\task41.runtimeconfig.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\bin\Debug\net7.0\task41.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\bin\Debug\net7.0\task41.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\task41.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\refint\task41.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\task41.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\task41.genruntimeconfig.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task41\obj\Debug\net7.0\ref\task41.dll
