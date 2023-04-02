@@ -1,0 +1,15 @@
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\task50.csproj.AssemblyReference.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\task50.AssemblyInfoInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\task50.AssemblyInfo.cs
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\task50.csproj.CoreCompileInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\bin\Debug\net7.0\task50.exe
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\bin\Debug\net7.0\task50.deps.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\bin\Debug\net7.0\task50.runtimeconfig.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\bin\Debug\net7.0\task50.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\bin\Debug\net7.0\task50.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\task50.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\refint\task50.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\task50.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\task50.genruntimeconfig.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task50\obj\Debug\net7.0\ref\task50.dll
