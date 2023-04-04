@@ -1,0 +1,15 @@
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\task56.csproj.AssemblyReference.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\task56.AssemblyInfoInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\task56.AssemblyInfo.cs
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\task56.csproj.CoreCompileInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\bin\Debug\net7.0\task56.exe
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\bin\Debug\net7.0\task56.deps.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\bin\Debug\net7.0\task56.runtimeconfig.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\bin\Debug\net7.0\task56.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\bin\Debug\net7.0\task56.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\task56.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\refint\task56.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\task56.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\task56.genruntimeconfig.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task56\obj\Debug\net7.0\ref\task56.dll
