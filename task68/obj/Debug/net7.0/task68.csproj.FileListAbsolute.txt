@@ -1,0 +1,15 @@
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\bin\Debug\net7.0\task68.exe
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\bin\Debug\net7.0\task68.deps.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\bin\Debug\net7.0\task68.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\bin\Debug\net7.0\task68.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\task68.csproj.AssemblyReference.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\task68.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\refint\task68.dll
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\task68.pdb
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+F:\GB\1 четерть\Знакомство с языками программирования\HomeWorkC\task68\obj\Debug\net7.0\ref\task68.dll
